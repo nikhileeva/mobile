@@ -6,4 +6,4 @@
   ### экспорт тест-кейсов в формате PDF
 
   ### 📄 Ссылка на CheckList:
-[Открыть Google Таблицу с решением](https://docs.google.com/spreadsheets/d/1_h7vWK8-bZsBte3Itb75ic26aL5vvvm5D5l7bF8PMjE/edit?gid=1595243412#gid=1595243412)
+[Открыть Google](https://docs.google.com/spreadsheets/d/1_h7vWK8-bZsBte3Itb75ic26aL5vvvm5D5l7bF8PMjE/edit?gid=1595243412#gid=1595243412)
