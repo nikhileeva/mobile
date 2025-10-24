@@ -5,5 +5,7 @@
   ### 15 ручных тест-кейсов в Qase,
   ### экспорт тест-кейсов в формате PDF
 
-  ### 📄 Ссылка на CheckList:
-[Открыть Google](https://docs.google.com/spreadsheets/d/1_h7vWK8-bZsBte3Itb75ic26aL5vvvm5D5l7bF8PMjE/edit?gid=1595243412#gid=1595243412)
+## Чек-лист и тест-кейсы
+
+- [Чек-лист (Google Sheets)](https://docs.google.com/spreadsheets/d/1_h7vWK8-bZsBte3Itb75ic26aL5vvvm5D5l7bF8PMjE/edit?gid=1595243412#gid=1595243412)
+- [Тест-кейсы (PDF, Qase)](https://github.com/nikhileeva/mobile/blob/main/Test%20cases%20mobile.pdf)
