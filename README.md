@@ -11,6 +11,6 @@
 ## Чек-лист и тест-кейсы
 
 - [Чек-лист (Google Sheets)](https://docs.google.com/spreadsheets/d/1_h7vWK8-bZsBte3Itb75ic26aL5vvvm5D5l7bF8PMjE/edit?gid=1595243412#gid=1595243412)
-- [Тест-кейсы (PDF, Qase)](https://github.com/nikhileeva/mobile/blob/main/Checklist%2010%3A26%3A25.pdf)
-- [Test_Run (PDF, Qase)](https://github.com/nikhileeva/mobile/blob/main/G101-Test%2Brun%2B2025_10_28%2BMobile%2BApp%2BTesting%2B(emulator).pdf)
+- [Тест-кейсы (PDF, Qase)](https://github.com/nikhileeva/mobile/blob/main/Test%20cases.pdf)
+- [Test_Run (PDF, Qase)](https://github.com/nikhileeva/mobile/blob/main/G101-Test%2Brun%2B2025_10_28%2BMobile%2BApp%2BTesting%2B(emulator)%20(1).pdf)
 - [Youtrack_defects (Google Sheets)](https://docs.google.com/spreadsheets/d/10jbkudL8wP0fjygwV0h6lejhpaBOOfHs9apibKL07j0/edit?gid=1595243412#gid=1595243412)
